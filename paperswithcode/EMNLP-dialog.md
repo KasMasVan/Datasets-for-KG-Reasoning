@@ -6,6 +6,6 @@ and test.
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/96951818-e714c680-151f-11eb-952b-86a4cf5d6ac2.png)
 # example
-
+![image](https://user-images.githubusercontent.com/51369075/96952515-98682c00-1521-11eb-95e3-da23c8b8ebb4.png)
 # referenced by
 [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/pdf/1903.10245v4.pdf)
