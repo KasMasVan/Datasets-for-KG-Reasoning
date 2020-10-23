@@ -8,6 +8,6 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 
 ## datasets from papars found in [papaers from code](https://paperswithcode.com/sota)
 
-* 1. [EMNLP dialog dataset](paperswithcode/EMNLP.md)
+* 1. [EMNLP dialog dataset](paperswithcode/EMNLP-dialog.md)
 
 * 2. ICLR dialog dataset
