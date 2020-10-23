@@ -15,3 +15,8 @@ Freebase is a huge and growing KB of general facts; there are currently 1.2 bill
 * 00260881	_hypernym	00260622
 # referenced by
 [OpenKE: An Open Toolkit for Knowledge Embedding](https://www.aclweb.org/anthology/D18-2024.pdf)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
