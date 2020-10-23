@@ -22,7 +22,7 @@
 >(6) Finally, we achieve our triple set S = Se ∪
 >Sc ∪ Sl and our relation set R = {re, rc} ∪ Rl.
 # statistics
-
+![image](https://user-images.githubusercontent.com/51369075/96973528-95cdfc80-154a-11eb-97e1-64115d18706f.png)
 # example
 
 # referenced by
