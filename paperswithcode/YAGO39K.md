@@ -24,10 +24,10 @@
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/96973528-95cdfc80-154a-11eb-97e1-64115d18706f.png)
 # example
-<wikicat_British_people_of_Frisian_descent>	0
-<Gary_Shelton>	0
-<isLocatedIn>	0
-  34081 35327
-  9764 13453 2
+* <wikicat_British_people_of_Frisian_descent>	0
+* <Gary_Shelton>	0
+* <isLocatedIn>	0
+*  34081 35327
+*  9764 13453 2
 # referenced by
 [Probability Calibration for Knowledge Graph Embedding Models](https://openreview.net/pdf?id=S1g8K1BFwS)
