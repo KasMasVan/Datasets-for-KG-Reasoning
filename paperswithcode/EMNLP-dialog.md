@@ -5,3 +5,5 @@ This Reddit dataset contains movie chats from two participants, wherein each res
 and test.
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/96951818-e714c680-151f-11eb-952b-86a4cf5d6ac2.png)
+# referenced by
+[Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/pdf/1903.10245v4.pdf)
