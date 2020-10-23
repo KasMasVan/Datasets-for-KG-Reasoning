@@ -9,4 +9,4 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 
 ### papaers from papaers with codes
 #### knowledge graph
-* 1.
+* 1.[Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/pdf/1903.10245v4.pdf)
