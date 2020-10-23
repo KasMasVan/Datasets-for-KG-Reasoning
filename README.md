@@ -10,3 +10,4 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 
 * 1. [EMNLP dialog dataset](paperswithcode/EMNLP-dialog.md)
 * 2. [ICLR dialog dataset](paperswithcode/ICLR-dialog.md)
+* 3. [FB15K and WN18](paperswithcode/FB15K&WN18.md)
