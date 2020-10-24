@@ -9,5 +9,7 @@
 # example
 ## Kinships
 ![image](https://user-images.githubusercontent.com/51369075/97095831-126df180-1697-11eb-86bc-ff6bc7420ae5.png)
+## UMLS
+![image](https://user-images.githubusercontent.com/51369075/97095888-dab37980-1697-11eb-8953-0755595278af.png)
 # referenced by
 [Knowledge Graph Completion via Complex Tensor Factorization](https://www.jmlr.org/papers/volume18/16-563/16-563.pdf)
