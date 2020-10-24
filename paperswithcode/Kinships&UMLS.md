@@ -6,6 +6,7 @@
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/97095792-7512bd80-1696-11eb-9830-f8372779b5cd.png)
 # example
+## Kinships
 
 # referenced by
 [Knowledge Graph Completion via Complex Tensor Factorization](https://www.jmlr.org/papers/volume18/16-563/16-563.pdf)
