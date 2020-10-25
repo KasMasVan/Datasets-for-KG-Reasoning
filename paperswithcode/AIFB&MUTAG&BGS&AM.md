@@ -10,3 +10,4 @@
 # example
 
 # referenced by
+[Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf)
