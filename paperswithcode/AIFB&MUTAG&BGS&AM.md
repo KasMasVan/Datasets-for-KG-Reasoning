@@ -8,6 +8,6 @@
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/97096103-f029a300-1699-11eb-91e8-ac385bc8e867.png)
 # example
-Please refer to the paper for more details.
+Please refer to the 'source' paper for more details.
 # referenced by
 [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf)
