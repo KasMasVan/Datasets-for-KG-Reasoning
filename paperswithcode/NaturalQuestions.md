@@ -12,5 +12,6 @@ present.
 >The public release consists of
 307,373 training examples with single annotations; 7,830 examples with 5-way annotations for development data; and a further 7,842 examples 5-way annotated sequestered as test data
 # example
-
+![image](https://user-images.githubusercontent.com/51369075/97144547-98755f80-179f-11eb-8be4-bb8c35f4e612.png)
 # referenced by
+[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
