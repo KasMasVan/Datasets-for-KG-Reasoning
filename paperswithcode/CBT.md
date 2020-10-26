@@ -9,4 +9,4 @@ For more detail, please refer to section 2 of the CBT paper.
 # example
 ![image](https://user-images.githubusercontent.com/51369075/97124429-03f10a00-176b-11eb-8ad5-89b3d20e1aaf.png)
 # referenced by
-(https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
