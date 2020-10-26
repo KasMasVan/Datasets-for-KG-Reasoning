@@ -1,7 +1,7 @@
 # source
 
 # description
-* **Citation Networks.** In the citation network datasets Cora, Citeseer and Pubmed nodes represent
+>* **Citation Networks.** In the citation network datasets Cora, Citeseer and Pubmed nodes represent
 documents and edges represent citation links. The networks contain bag-of-words feature vectors for
 each document. We treat the citation links as (undirected) edges. For training, we use 20 labels per
 class.
