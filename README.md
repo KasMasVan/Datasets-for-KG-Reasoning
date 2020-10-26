@@ -15,4 +15,8 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 5. [YAGO39K](paperswithcode/YAGO39K.md)
 6. [Kinships and UMLS](paperswithcode/Kinships&UMLS.md)
 7. [AIFB,MUTAG,BGS,AM](paperswithcode/AIFB&MUTAG&BGS&AM.md)
+### relational reasoning ###
 8. [Cora et al.](paperswithcode/Cora.md)
+### commonsense reasoning ###
+9. [WebText](paperswithcode/WebText.md)
+
