@@ -20,3 +20,4 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 ### commonsense reasoning ###
 9. [WebText](paperswithcode/WebText.md)
 10. [Children's Book Test](paperswithcode/CBT.md)
+11. [LAMBADA](paperswithcode/LAMBADA.md)
