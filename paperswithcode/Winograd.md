@@ -15,7 +15,8 @@ that has these desirable features:
 pass the test, we would say they were thinking.
 
 # statistics
-
+There are 150 Winograd schemas.
 # example
-
+![image](https://user-images.githubusercontent.com/51369075/97125490-110ff800-176f-11eb-9da7-a912a37cf7bc.png)
 # referenced by
+[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
