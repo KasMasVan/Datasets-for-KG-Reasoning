@@ -23,5 +23,6 @@ most common object categories in the world.
 ![image](https://user-images.githubusercontent.com/51369075/97122626-3e09de00-1762-11eb-9b28-fa8b30b09a74.png)
 # example
 * [Cora, Citeseer, Pubmed](https://blog.csdn.net/qwezhaohaihong/article/details/106037641?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-1-106037641.nonecase&utm_term=citeseer%E6%95%B0%E6%8D%AE%E9%9B%86%E6%8F%8F%E8%BF%B0&spm=1000.2123.3001.4430)
+* please refer to the Internet for more details
 # referenced by
 [Fast Graph Representation Learning with PyTorch Geometric](https://arxiv.org/pdf/1903.02428v3.pdf)
