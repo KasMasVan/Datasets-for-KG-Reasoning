@@ -1,5 +1,5 @@
 # source
-
+* Cora, Citeseer, PubMed: [Collective Classification in Network Data](https://xueshu.baidu.com/usercenter/paper/show?paperid=11a790b0c5ea7aba0f952d8d958f2245&site=xueshu_se)
 # description
 >* **Citation Networks.** In the citation network datasets Cora, Citeseer and Pubmed nodes represent
 documents and edges represent citation links. The networks contain bag-of-words feature vectors for
@@ -22,6 +22,7 @@ most common object categories in the world.
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/97122626-3e09de00-1762-11eb-9b28-fa8b30b09a74.png)
 # example
-
+* [Cora](https://blog.csdn.net/yeziand01/article/details/93374216)
+*
 # referenced by
 [Fast Graph Representation Learning with PyTorch Geometric](https://arxiv.org/pdf/1903.02428v3.pdf)
