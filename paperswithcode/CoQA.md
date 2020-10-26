@@ -12,5 +12,6 @@ conversation history (such as “Why?”).
 # statistics
 ![image](https://user-images.githubusercontent.com/51369075/97126388-9eece280-1771-11eb-837e-67fa7f121734.png)
 # example
-
+![image](https://user-images.githubusercontent.com/51369075/97126465-d9567f80-1771-11eb-8679-5d34b2ddf5dd.png)
 # referenced by
+[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
