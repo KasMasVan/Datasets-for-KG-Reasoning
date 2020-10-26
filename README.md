@@ -23,5 +23,5 @@ Datasets for knowledge graph reasoning(my first task in the lab)
 11. [LAMBADA](paperswithcode/LAMBADA.md)
 12. [Winograd Schema challenge](paperswithcode/Winograd.md)
 13. [Conversation Question Answering dataset](paperswithcode/CoQA.md)
-14. [Daily Mail dataset]
+14. [Daily Mail dataset](paperswithcode/DailyMail.md)
 15. [Natural Questions dataset]
