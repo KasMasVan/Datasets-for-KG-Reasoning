@@ -10,6 +10,7 @@ Reddit, a social media platform, which received at least 3
 karma. This can be thought of as a heuristic indicator for
 whether other users found the link interesting, educational,
 or just funny.
+
 Please refer to the paper for more detail.
 # statistics
 Please refer to the paper for more detail.
