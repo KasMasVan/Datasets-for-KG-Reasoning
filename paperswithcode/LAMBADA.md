@@ -15,5 +15,6 @@ if they only see the last sentence preceding the target word
 # statistics
 
 # example
+![image](https://user-images.githubusercontent.com/51369075/97125037-7a8f0700-176d-11eb-90f3-a2692c32628c.png)
 
 # referenced by
