@@ -1,6 +1,6 @@
 # source
-* [Know What You Don’t Know: Unanswerable Questions for SQuAD](https://arxiv.org/pdf/1806.03822.pdf)
-* [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+* [Know What You Don’t Know: Unanswerable Questions for SQuAD](https://arxiv.org/pdf/1806.03822.pdf)(paper) 
+* [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)(website)
 # description
 >The SQuAD 2.0 task extends the SQuAD 1.1
 problem definition by allowing for the possibility
