@@ -1,5 +1,5 @@
 # Datasets-for-KG-Reasoning
-Datasets for knowledge graph reasoning(my first task in the lab)
+Datasets for knowledge graph reasoning
 
 ## resources for this project
 * https://github.com/yizhen20133868/NLP-Conferences-Code
